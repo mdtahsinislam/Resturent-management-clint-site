@@ -13,8 +13,9 @@ Currently, two official plugins are available:
 ### Server site: https://github.com/mdtahsinislam/Resturent_management-server-site
 
 ---
-# 🍽️ Restaurant Management Website
+# 🎯  Restaurant Management Website 🍽️
 
+## 📌 Project Overview
 A full-stack **Restaurant Management Website** built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 The platform is designed to enhance the restaurant’s online presence, improve customer interaction, and streamline internal management processes.
 
@@ -25,7 +26,7 @@ The platform is designed to enhance the restaurant’s online presence, improve 
 ### Clint site : https://github.com/mdtahsinislam/Resturent-management-clint-site
 ### Server site: https://github.com/mdtahsinislam/Resturent_management-server-site
 
-## 🚀 Features
+## ✨ Features
 
 - **Authentication System**
   - Email/Password login & register
