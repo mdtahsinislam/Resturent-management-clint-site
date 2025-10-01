@@ -18,10 +18,10 @@ The platform is designed to enhance the restaurant’s online presence, improve 
 
 ---
 # 🚀 Live Demo
-# live link:https://resturentmanagement-website.web.app/
+# 🌐 live link:https://resturentmanagement-website.web.app/
 
-### Clint site : https://github.com/mdtahsinislam/Resturent-management-clint-site
-### Server site: https://github.com/mdtahsinislam/Resturent_management-server-site
+### 🔗 Clint site : https://github.com/mdtahsinislam/Resturent-management-clint-site
+### 🔗 Server site: https://github.com/mdtahsinislam/Resturent_management-server-site
 
 ## ✨ Features
 
