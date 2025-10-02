@@ -17,7 +17,7 @@ A full-stack **Restaurant Management Website** built with the **MERN Stack** (Mo
 The platform is designed to enhance the restaurant’s online presence, improve customer interaction, and streamline internal management processes.
 
 ---
-# 🚀 Live Demo
+# 🚀 Live Website showcase
 # 🌐 live link:https://resturentmanagement-website.web.app/
 
 ### 🔗 Clint site : https://github.com/mdtahsinislam/Resturent-management-clint-site
@@ -184,7 +184,6 @@ npm start
 * Hosting: Frontend (Client site): Firebase Hosting | Backend (Server site): Vercel Hosting
 * Database: MongoDB Atlas
 ---
-## 📝 License
-This project is open source. Add your preferred license (e.g., MIT). Happy coding 🚀
+## 📝  Happy coding 🚀
 
 
