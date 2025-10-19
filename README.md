@@ -1,5 +1,4 @@
-![Preview](https://github.com/mdtahsinislam/Resturent-management-clint-site/blob/12c237d7ffb45d94d18d92d0b7b2886df5465948/oares.png)
-
+![Preview](https://github.com/mdtahsinislam/Resturent-management-clint-site/blob/66273850f3818213d412588819d1994f548333c4/readme2.png)
 
 ---
 # 🎯  Restaurant Management Website 🍽️
