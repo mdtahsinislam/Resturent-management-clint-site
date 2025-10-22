@@ -18,7 +18,9 @@ The platform is designed to enhance the restaurant’s online presence, improve 
 
 - **Authentication System**
   - Email/Password login & register
-  - Email Confermation Notification. mail send User By  Foodpurchase and  AddFood 
+  - Email Confermation Notification. mail send User By  Foodpurchase and  AddFood
+  - User access Nearest Branch Distance from ( user live location )
+  - User access Track Nearest Rider Locaton For Fast Delivery .(Rider Name, phone , Distance also )
   - Google/GitHub OAuth (choose one)
   - Conditional Navbar (Login/Logout/Profile image)
   - Password validation (Uppercase, Lowercase, Min length 6)
